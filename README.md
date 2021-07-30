@@ -4,4 +4,16 @@ l
 l
 l
 ss
+<<<<<<< HEAD
 this is in the new branch
+=======
+
+
+
+
+
+
+
+
+nice!
+>>>>>>> master
